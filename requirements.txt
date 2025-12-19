@@ -1,0 +1,5 @@
+Dependencies
+
+Pandas
+Numpy
+Matplotlib
